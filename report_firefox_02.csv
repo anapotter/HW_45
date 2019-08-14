@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value
+01,Firefox,index.php,First Name,true,John
+02,Firefox,index.php,Last Name,true,Smith
+03,Firefox,index.php,Email,true,john_smith@gmail.com
+04,Firefox,index.php,Phone,true,415 555-1212
+05,Firefox,confirmation.php,First Name,true,John
+06,Firefox,confirmation.php,Last Name,true,Smith
+07,Firefox,confirmation.php,Email,true,john_smith@gmail.com
+08,Firefox,confirmation.php,Phone,true,415 555-1212

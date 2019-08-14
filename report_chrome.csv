@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value,Size,Location
+01,Chrome,index.php,First Name,true,John,(386x42),(554x181)
+02,Chrome,index.php,Last Name,true,Smith,(386x42),(979x181)
+03,Chrome,index.php,Email,true,john_smith@gmail.com,(386x42),(554x261)
+04,Chrome,index.php,Phone,true,415 555-1212,(386x42),(979x261)
+05,Chrome,confirmation.php,First Name,true,John,(66x42),(561x182)
+06,Chrome,confirmation.php,Last Name,true,Smith,(76x42),(986x182)
+07,Chrome,confirmation.php,Email,true,john_smith@gmail.com,(281x42),(561x266)
+08,Chrome,confirmation.php,Phone,true,415 555-1212,(170x42),(986x266)

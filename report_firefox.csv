@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value,Size,Location
+01,Firefox,index.php,First Name,true,John,(343x39),(560x182)
+02,Firefox,index.php,Last Name,true,Smith,(343x39),(985x182)
+03,Firefox,index.php,Email,true,john_smith@gmail.com,(343x39),(560x262)
+04,Firefox,index.php,Phone,true,415 555-1212,(343x39),(985x262)
+05,Firefox,confirmation.php,First Name,true,John,(66x39),(561x183)
+06,Firefox,confirmation.php,Last Name,true,Smith,(76x39),(986x183)
+07,Firefox,confirmation.php,Email,true,john_smith@gmail.com,(280x39),(561x267)
+08,Firefox,confirmation.php,Phone,true,415 555-1212,(170x39),(986x267)
